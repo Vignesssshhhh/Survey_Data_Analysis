@@ -96,7 +96,8 @@ SQL scripts were executed in the Azure SQL Query Editor to create tables with co
 
 ### Step 5 — Power BI Dashboard Visualization
 
-![Power BI Dashboard](screenshots/powerbi_dashboard.png)<img width="1918" height="972" alt="Screenshot 2026-04-23 185018" src="https://github.com/user-attachments/assets/cbc8a4cc-4fb4-48f6-98aa-a08f9e3ceb14" />
+![Power BI Dashboard](screenshots/powerbi_dashboard.png)<img width="1417" height="792" alt="Execution ScreenShot" src="https://github.com/user-attachments/assets/86f3c604-ecc5-4ec6-8c69-88b3bb0c43db" />
+
 
 
 This screenshot shows the Power BI dashboard connected to the Azure SQL Database. The dashboard includes three main visualizations:
