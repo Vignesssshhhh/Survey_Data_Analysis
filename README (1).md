@@ -70,7 +70,8 @@ Interactive Analytics Dashboard
 
 ### Step 1 — Azure Resource Group Creation
 
-![Azure Resource Group](screenshots/azure_resource_group.png)
+![Azure Resource Group](screenshots/azure_resource_group.png)<img width="1918" height="972" alt="Screenshot 2026-04-23 185018" src="https://github.com/user-attachments/assets/a50b56e2-d664-4bdf-a155-d8fd8168e553" />
+
 
 This image shows the creation of the Azure Resource Group named `survey-analytics-rg` in the Microsoft Azure portal. The resource group is deployed in the **South India** region and acts as a container that organizes all cloud resources related to the project. It contains 4 resources: the Azure SQL Server, SQL Database, Data Factory, and Storage Account — all deployed in Southeast Asia. The deployment shows **3 Succeeded** deployments, confirming a successful cloud setup.
 
