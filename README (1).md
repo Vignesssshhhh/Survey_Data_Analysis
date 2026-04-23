@@ -4,11 +4,6 @@
 
 ---
 
-## Abstract
-
-The Survey Data Analytics System is a cloud-based data analytics project developed using Microsoft Azure and Power BI. The system stores employee survey data in Azure SQL Database, orchestrates data movement through Azure Data Factory, and performs analysis and visualization through Power BI dashboards. The goal of this project is to analyze workforce survey patterns and identify factors influencing employee behavior such as department, education level, gender, commute mode, marital status, stress levels, team size, and training hours. By leveraging cloud storage, ETL pipelines, and interactive visualizations, the system provides insights that help organizations understand workforce trends and make data-driven HR decisions.
-
----
 
 ## Introduction
 
@@ -101,7 +96,8 @@ SQL scripts were executed in the Azure SQL Query Editor to create tables with co
 
 ### Step 5 — Power BI Dashboard Visualization
 
-![Power BI Dashboard](screenshots/powerbi_dashboard.png)
+![Power BI Dashboard](screenshots/powerbi_dashboard.png)<img width="1918" height="972" alt="Screenshot 2026-04-23 185018" src="https://github.com/user-attachments/assets/cbc8a4cc-4fb4-48f6-98aa-a08f9e3ceb14" />
+
 
 This screenshot shows the Power BI dashboard connected to the Azure SQL Database. The dashboard includes three main visualizations:
 
